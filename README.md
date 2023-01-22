@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Ali</h1>
 <h3 align="center">A passionate Full-stack engineer from Jeddah, Saudi Arabia</h3>
 
-- 📫 How to reach me **abdulaziz@idit-sa.com**
+- 📫 How to reach me **zizogmd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
