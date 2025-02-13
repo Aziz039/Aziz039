@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Ali</h1>
-<h3 align="center">A passionate Full-stack engineer from Jeddah, Saudi Arabia</h3>
+<h3 align="center">A Software Entrepreneur & Full-Stack Engineer from Jeddah, Saudi Arabia</h3>
 
-- 📫 How to reach me **zizogmd@gmail.com**
+- 🚀 Founder of **InvDro** – an AI-powered inventory management solution  
+- 🔍 Passionate about **AI, cloud computing, and data analysis**  
+- 🎯 Focused on **machine learning, software development, and startups**  
+- 📫 Reach me at **zizogmd@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
