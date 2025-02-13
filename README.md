@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Ali</h1>
-<h3 align="center">A Software Entrepreneur & Full-Stack Engineer from Jeddah, Saudi Arabia</h3>
+<h3 align="center">A Software Entrepreneur & Full-Stack Engineer</h3>
 
 - 🚀 Founder of **InvDro** – an AI-powered inventory management solution  
 - 🔍 Passionate about **AI, cloud computing, and data analysis**  
